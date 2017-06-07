@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Web Services</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create">Create</string>
+    <string name="title_activity_update">Update</string>
+    <string name="title_activity_prodi">Prodi</string>
+</resources>
